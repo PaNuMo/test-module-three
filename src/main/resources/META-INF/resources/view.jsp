@@ -1,6 +1,8 @@
 <%@ include file="/init.jsp" %>
 
 <p>
-	<h1><liferay-ui:message key="modulethree.caption"/></h1>
-	<span>Testing text</span>
+	<liferay-ui:message key="modulethree.caption"/>	
 </p>
+	
+	
+<h2>Testing text</h2>	
